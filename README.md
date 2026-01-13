@@ -9,7 +9,7 @@ A beautiful, cross-platform mobile app that provides **real-time Spotify insight
 
 ## Medium Article
 
-((Check it out here)(https://medium.com/@aaravmodi20/building-a-short-term-spotify-wrapped-taught-me-oauth-the-hard-way-3cab646ddcdc))
+([Check it out here](https://medium.com/@aaravmodi20/building-a-short-term-spotify-wrapped-taught-me-oauth-the-hard-way-3cab646ddcdc))
 
 ---
 
