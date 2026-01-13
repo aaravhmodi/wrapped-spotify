@@ -7,6 +7,10 @@ A beautiful, cross-platform mobile app that provides **real-time Spotify insight
 ![React Native](https://img.shields.io/badge/React%20Native-0.81.4-blue)
 ![Expo](https://img.shields.io/badge/Expo-SDK%2054-black)
 
+## Medium Article
+
+((Check it out here)(https://medium.com/@aaravmodi20/building-a-short-term-spotify-wrapped-taught-me-oauth-the-hard-way-3cab646ddcdc))
+
 ---
 
 ## 🎥 Demo
